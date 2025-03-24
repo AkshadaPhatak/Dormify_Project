@@ -1,0 +1,1 @@
+**Dormify** is a collaborative house rental app that simplifies finding and listing rental spaces with seamless user interactions. It streamlines the rental process with smart filtering, secure transactions, and real-time updates.
